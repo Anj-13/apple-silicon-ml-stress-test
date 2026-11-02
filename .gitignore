@@ -1,0 +1,34 @@
+# Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+profile.stats
+
+# Stray pip freeze dump (keep requirements.txt instead)
+requirement.txt
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Data
+data/
+
+# Models / artifacts
+*.pkl
+
+# Vector DB
+chroma_db/
+chroma.sqlite3
+
+# Logs
+*.log

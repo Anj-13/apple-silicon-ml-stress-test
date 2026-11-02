@@ -1,0 +1,38 @@
+# ML & Data
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+jupyter
+ipykernel
+
+# NLP & RAG
+sentence-transformers
+transformers
+langchain
+langchain-community
+chromadb
+faiss-cpu
+
+# Web & API
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+requests
+
+# Testing
+pytest
+pytest-cov
+httpx
+
+# Utils
+python-dotenv
+tqdm
